@@ -1,8 +1,8 @@
 # Build-and-deploy-your-own-deep-neural-network-on-a-website-using-tensor-flow.
 
-# NAME: MOULISHWAR G
+# NAME: BASHA VENU
 
-# REGISTER NUMBER : 2305001020
+# REGISTER NUMBER : 2305001005
 
 # AIM
 
